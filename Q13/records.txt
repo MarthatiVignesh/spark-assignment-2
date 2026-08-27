@@ -1,0 +1,6 @@
+101,John,25
+102,Alice,22
+103,Bob
+104,Charlie,30
+105,David
+106,Eva,28

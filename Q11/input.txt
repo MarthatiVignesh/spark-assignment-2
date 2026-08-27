@@ -1,0 +1,4 @@
+Spark is fast
+Spark is powerful
+Hadoop is distributed
+Spark is distributed

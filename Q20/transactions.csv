@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,transaction_date,category
+T001,C001,1000,2026-08-01,Electronics
+T002,C002,500,2026-08-02,Clothing
+T003,C001,750,2026-08-03,Groceries
+T004,C003,1200,2026-08-04,Electronics
+T005,C002,,2026-08-05,Groceries
+T006,C004,300,2026-08-06,Clothing
+T007,C001,900,2026-08-07,Electronics
+T008,C003,600,2026-08-08,Groceries
+T009,C004,450,,Clothing
+T010,C002,800,2026-08-10,Electronics
